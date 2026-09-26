@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+casadi
+control
+pyserial
+pyserialtransfer
